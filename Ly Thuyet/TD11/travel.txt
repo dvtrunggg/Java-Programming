@@ -1,0 +1,6 @@
+hanoi-hochiminh:plane:5
+danang-hochiminh:bus:12
+hue-danang:bus:2
+nhatrang-hochiminh:plane:1
+danang-nhatrang:train:10
+danang-nhatrang:train:10

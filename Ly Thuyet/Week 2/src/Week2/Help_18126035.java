@@ -16,6 +16,7 @@ public class Help_18126035 {
 			do {
 				temp = (char) System.in.read();
 			} while (temp != '\n');
+			
 			switch (ch) {
 			case '1':
 				System.out.println("\nThe if: \n\t if(condition) \n\t\t statement; \n\t else \n\t\t statement;");
